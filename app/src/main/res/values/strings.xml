@@ -1,0 +1,186 @@
+<resources>
+    <string name="app_name">Pokepedia</string>
+    <string name="textview">TextView</string>
+    <string name="investida">Investida</string>
+    <string name="todo">TODO</string>
+
+    <string-array name="pokemon_number_arraylist">
+        <item>#001</item>
+        <item>#002</item>
+        <item>#003</item>
+        <item>#004</item>
+        <item>#005</item>
+        <item>#006</item>
+        <item>#007</item>
+        <item>#008</item>
+        <item>#009</item>
+        <item>#010</item>
+        <item>#011</item>
+        <item>#012</item>
+        <item>#013</item>
+        <item>#014</item>
+        <item>#015</item>
+        <item>#016</item>
+        <item>#017</item>
+        <item>#018</item>
+        <item>#019</item>
+        <item>#020</item>
+    </string-array>
+
+    <string-array name="pokemon_type1_arraylist">
+        <item>Planta</item>
+        <item>Planta</item>
+        <item>Planta</item>
+        <item>Planta</item>
+        <item>Planta</item>
+        <item>Planta</item>
+        <item>Planta</item>
+        <item>Planta</item>
+        <item>Planta</item>
+        <item>Planta</item>
+        <item>Planta</item>
+        <item>Planta</item>
+        <item>Planta</item>
+        <item>Planta</item>
+        <item>Planta</item>
+        <item>Planta</item>
+        <item>Planta</item>
+        <item>Planta</item>
+        <item>Planta</item>
+        <item>Planta</item>
+    </string-array>
+
+    <string-array name="pokemon_type2_arraylist">
+        <item>Veneno</item>
+        <item>Veneno</item>
+        <item>Veneno</item>
+        <item>Veneno</item>
+        <item>Veneno</item>
+        <item>Veneno</item>
+        <item>Veneno</item>
+        <item>Veneno</item>
+        <item>Veneno</item>
+        <item>Veneno</item>
+        <item>Veneno</item>
+        <item>Veneno</item>
+        <item>Veneno</item>
+        <item>Veneno</item>
+        <item>Veneno</item>
+        <item>Veneno</item>
+        <item>Veneno</item>
+        <item>Veneno</item>
+        <item>Veneno</item>
+        <item>Veneno</item>
+    </string-array>
+
+    <string-array name="pokemon_name_arraylist">
+        <item>Bulbasaur</item>
+        <item>Bulbasaur</item>
+        <item>Bulbasaur</item>
+        <item>Bulbasaur</item>
+        <item>Bulbasaur</item>
+        <item>Bulbasaur</item>
+        <item>Bulbasaur</item>
+        <item>Bulbasaur</item>
+        <item>Bulbasaur</item>
+        <item>Bulbasaur</item>
+        <item>Bulbasaur</item>
+        <item>Bulbasaur</item>
+        <item>Bulbasaur</item>
+        <item>Bulbasaur</item>
+        <item>Bulbasaur</item>
+        <item>Bulbasaur</item>
+        <item>Bulbasaur</item>
+        <item>Bulbasaur</item>
+        <item>Bulbasaur</item>
+        <item>Bulbasaur</item>
+    </string-array>
+    <string-array name="moves_name_arraylist">
+        <item>Investida</item>
+        <item>Investida</item>
+        <item>Investida</item>
+        <item>Investida</item>
+        <item>Investida</item>
+        <item>Investida</item>
+        <item>Investida</item>
+        <item>Investida</item>
+        <item>Investida</item>
+        <item>Investida</item>
+        <item>Investida</item>
+        <item>Investida</item>
+        <item>Investida</item>
+        <item>Investida</item>
+        <item>Investida</item>
+        <item>Investida</item>
+        <item>Investida</item>
+        <item>Investida</item>
+        <item>Investida</item>
+        <item>Investida</item>
+        <item>Investida</item>
+    </string-array>
+    <string-array name="moves_type_arraylist">
+        <item>Normal</item>
+        <item>Normal</item>
+        <item>Normal</item>
+        <item>Normal</item>
+        <item>Normal</item>
+        <item>Normal</item>
+        <item>Normal</item>
+        <item>Normal</item>
+        <item>Normal</item>
+        <item>Normal</item>
+        <item>Normal</item>
+        <item>Normal</item>
+        <item>Normal</item>
+        <item>Normal</item>
+        <item>Normal</item>
+        <item>Normal</item>
+        <item>Normal</item>
+        <item>Normal</item>
+        <item>Normal</item>
+        <item>Normal</item>
+        <item>Normal</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="bulbasaur">Bulbasaur</string>
+    <string name="_001">#001</string>
+    <string name="informacoes">Informações</string>
+    <string name="atributos">Atributos</string>
+    <string name="movimentos">Movimentos</string>
+    <string name="nome">NOME</string>
+    <string name="n">Nº</string>
+    <string name="rank">RANK</string>
+    <string name="informações">Informações</string>
+    <string name="planta">Planta</string>
+    <string name="veneno">Veneno</string>
+    <string name="altura">Altura</string>
+    <string name="_0_7m">0.7m</string>
+    <string name="peso">Peso</string>
+    <string name="_7kg">7kg</string>
+    <string name="habilidade">Habilidade</string>
+    <string name="supercrescimento">Supercrescimento</string>
+    <string name="novato">Novato</string>
+    <string name="info">Ele carrega uma semente em suas costas desde o seu nascimento conforme envelhece a semente fica cada vez maior conhecido por ser um pokémon comportado e leal mas difícil encontra-lo na selva.</string>
+    <string name="rank2">Rank</string>
+    <string name="pokemon">pokemon</string>
+    <string name="vitalidade">Vitalidade</string>
+    <string name="_2_4">2/4</string>
+    <string name="ataque">Ataque</string>
+    <string name="_50">50</string>
+    <string name="defesa">Defesa</string>
+    <string name="_3_4">3/4</string>
+    <string name="velocidade">Velocidade</string>
+    <string name="_70">70</string>
+    <string name="normal">Normal</string>
+    <string name="força">Força</string>
+    <string name="tipo">TIPO</string>
+    <string name="vida_base">Vida Base</string>
+    <string name="_3">3</string>
+    <string name="energia_base">Energia Base</string>
+    <string name="est_gio_evolutivo">Estágio Evolutivo</string>
+    <string name="_1">1º</string>
+    <string name="ritmo_evolutivo">Ritmo Evolutivo</string>
+    <string name="m_dio">Médio</string>
+    <string name="pok_pedia">POKÉPEDIA</string>
+</resources>
