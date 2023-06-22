@@ -59,10 +59,4 @@ public class MovesResult extends Fragment implements RecyclerViewInterface {
         }
     }
 
-    @Override
-    public void onItemClick(int position) {
-        Intent intent = new Intent(requireContext(), MoveInfo.class);
-        intent.putExtra("move_name", listedMoveModels.get(position).getMoveName());
-        startActivity(intent);
-    }
 }

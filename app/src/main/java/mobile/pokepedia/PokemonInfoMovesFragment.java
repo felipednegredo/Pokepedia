@@ -89,14 +89,6 @@ public class PokemonInfoMovesFragment extends Fragment implements RecyclerViewIn
                 });
     }
 
-    @Override
-    public void onItemClick(int position) {
-        Intent intent = new Intent(requireContext(), MoveInfo.class);
-        intent.putExtra("move_name", listedMoveModels.get(position).getMoveName());
-        intent.putExtra("move_type", listedMoveModels.get(position).getMoveType());
-        intent.putExtra("move_rank", listedMoveModels.get(position).getMoveRank());
-        startActivity(intent);
-    }
 
     @Override
     public void onResume() {
